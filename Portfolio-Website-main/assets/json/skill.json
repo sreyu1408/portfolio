@@ -1,0 +1,18 @@
+[
+  {
+    "name": "HTML",
+    "image": "assets/images/skills/html.jpeg"
+  },
+  {
+    "name": "CSS",
+    "image": "Portfolio-Website-main/assets/images/skills/TailwindCSS.png"
+  },
+  {
+    "name": "JavaScript",
+    "image": "assets/images/skills/javascript.png"
+  },
+  {
+    "name": "Python",
+    "image": "assets/images/skills/python.png"
+  }
+]
